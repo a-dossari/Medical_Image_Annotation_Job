@@ -3,10 +3,12 @@
 ### **Project Overview**
 The goal is to build a product that helps doctors quickly identify cases of pneumonia in children. 
 
+As such, this project is designed to test your ability to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product. Your main task will be to create a data labeling job using [Appen's platform](https://client.appen.com/jobs)
+
 This project is designed to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product.
 
 ### **The Data**
-The dataset you'll be given is a modified version of this Kaggle chest x-ray dataset, with most labels removed. Every piece of data is a chest x-ray image.
+This dataset is a modified version of [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), with most labels removed. Every piece of data is a chest x-ray image. You may see images taken that are slightly different in size and taken under slightly different exposure times. A typical, labeled image is shown below.
 
 ![alt text](https://video.udacity-data.com/topher/2019/April/5cae622b_annotated-chest-xray/annotated-chest-xray.png) 
 <p align="center">
