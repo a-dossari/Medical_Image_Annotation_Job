@@ -7,6 +7,7 @@ As such, this project is designed to test your ability to build a labeled datase
 
 This project is designed to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product.
 
+
 ### **The Data**
 This dataset is a modified version of [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), with most labels removed. Every piece of data is a chest x-ray image. You may see images taken that are slightly different in size and taken under slightly different exposure times. A typical, labeled image is shown below.
 
